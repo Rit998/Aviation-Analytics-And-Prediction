@@ -1,3 +1,10 @@
 Aviation Analytics And Prediction
 
-This is a final project that I worked upon using AWS along with Machine Learning using the Decision Tree Classifier on the data and then using the created model to further make predictions on the new data.
+This is a final project that I worked upon using AWS along with Machine Learning using the Decision Tree Classifier on the data and 
+then using the created model to further make predictions on the new data.
+
+First download the data using Hadoop for the year 2000 containing flight data and then using Hive create the tables and finally one this is done,
+get the records into your system locally.
+
+Once the file is in our local system, load that and apply the ML algorithm after performing EDA and data engineering to get the best results.
+
